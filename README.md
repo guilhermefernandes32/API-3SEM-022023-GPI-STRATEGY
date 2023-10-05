@@ -177,10 +177,3 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 |Product Owner| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Scrum Master| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Team Member| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-
-
-|"Coluna 1"|"Coluna 2"|"Coluna 3"|
-|-|-|-|-| *
-|"linha 1"|"linha 1"|"linha 1"| 
-|"linha 2"|"linha 2"|"linha 2"|
-|"linha 3"|"linha 3"|"linha 3"|
